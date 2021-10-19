@@ -120,7 +120,7 @@ Here is a list of prefixes:
 990 – 999 Coupons
 */
 
-echo ('Saludos a este cambio 1');
+echo ('Saludos a este cambio 234');
 const PREFIX = 786; //Ecuador
 
 const QTY = 10;
