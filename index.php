@@ -119,6 +119,8 @@ Here is a list of prefixes:
 981 – 982 Common Currency Coupons
 990 – 999 Coupons
 */
+
+echo ('Saludos a este cambio 1');
 const PREFIX = 786; //Ecuador
 
 const QTY = 10;
